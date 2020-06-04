@@ -1,0 +1,1 @@
+['Welcome to your First Exam Recruit.\n', 'Only the best recruits can become agents.\n', 'Do you have what it takes?\n', 'We will test your knowledge with this field readiness exam.\n', 'It should be pretty simple, since you only know the basics so far.\n', "Let's get started.\n", 'Best of luck recruit.']
